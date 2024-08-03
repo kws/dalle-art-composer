@@ -1,0 +1,12 @@
+portraits:
+  - key: norwegian
+    prompt: "A man wearing a traditional Norwegian National Costume (Bunad) standing against a Norwegian mountanous landscape with mountans and fjords"
+
+  - key: astronomer
+    prompt: "A traditional 16th century astronomer surrounded by ancient optical instrumets"
+
+  - key: mad_scientist
+    prompt: "A high-tech lab filled with bubbling beakers, Tesla coils, and futuristic devices"
+
+  - key: kaj-aker
+    prompt: "A man in a wetsuit on a lake for off kayaks"

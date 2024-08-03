@@ -1,0 +1,45 @@
+portraits:
+  - key: space_explorer
+    prompt: "A futuristic astronaut standing against a backdrop of outer space with planets, stars, and a distant galaxy. The astronaut suit is sleek and modern with a CIO/CTO badge on the chest. The background shows the vastness of space, with vibrant colors of nebulae and distant celestial objects."
+
+  - key: retro_tech_guru
+    prompt: "A retro tech enthusiast in a 1980s computer lab filled with old PCs, floppy disks, and neon lights. The clothing includes large glasses, a pocket protector, and a vintage computer shirt. The background is vibrant and full of classic technology elements."
+
+  - key: intergalactic_office
+    prompt: "A modern office set on a space station with large windows showing the cosmos outside. The figure is dressed in a sleek business suit with subtle sci-fi elements like a holographic tie and smart glasses. The setting is both professional and futuristic."
+
+  - key: galactic_barista
+    prompt: "A trendy space café with alien customers and floating coffee cups. The figure is wearing a barista apron over a casual outfit, with a name tag that reads 'Kaj, CIO of Coffee.' The background is lively with a mix of futuristic and cozy café elements."
+
+  - key: space_pirate
+    prompt: "A space pirate standing on the deck of a spaceship with treasure chests and space maps. The pirate outfit includes a tricorn hat, eyepatch, and a space blaster on the hip. The background shows the vast expanse of space through the ship's windows."
+
+  - key: cyberpunk_city
+    prompt: "A neon-lit cyberpunk cityscape with towering skyscrapers and flying cars. The figure is dressed in a cyberpunk outfit with a long coat, high-tech gadgets, and neon accents. The background is a bustling, high-tech urban environment."
+
+  - key: mad_scientist
+    prompt: "A high-tech lab filled with bubbling beakers, Tesla coils, and futuristic devices. The figure is wearing a lab coat with wild hair, safety goggles, and a device labeled 'Astrophysics Enhancer.' The setting is chaotic and full of scientific equipment."
+
+  - key: galactic_musician
+    prompt: "A space concert stage with a cheering alien audience and colorful lights. The figure is dressed in rock star attire with a futuristic guitar and sci-fi accessories. The background is energetic and vibrant, capturing the essence of a space concert."
+
+  - key: space_farmer
+    prompt: "A futuristic farm on Mars with red soil, robotic harvesters, and domed greenhouses. The figure is wearing farmer overalls with a high-tech twist, holding a glowing space vegetable. The background combines elements of agriculture and advanced technology."
+
+  - key: starfleet_officer
+    prompt: "The bridge of a starship with a crew at their stations and a view of the stars. The figure is dressed in a Starfleet-inspired uniform with rank insignia and a sleek design. The setting is professional and futuristic, with advanced control panels and starry views."
+
+  - key: festival_scientist
+    prompt: "A lively festival setting with a science pavilion. The figure is engaged in a science demonstration, wearing casual festival attire with a science twist. The background includes festival-goers, colorful tents, and educational displays."
+
+  - key: ai_artist
+    prompt: "A digital art studio with AI-generated artworks displayed on screens. The figure is working on a piece of digital art, wearing a creative outfit with high-tech accessories. The background is a blend of technology and artistic elements, showcasing the fusion of AI and art."
+
+  - key: lighting_designer
+    prompt: "A stage setting with elaborate lighting designs. The figure is adjusting stage lights, wearing a practical yet stylish outfit. The background includes stage props, lighting equipment, and a sense of theatrical atmosphere."
+
+  - key: ethical_tech_leader
+    prompt: "A modern office with elements of ethical technology displayed. The figure is dressed in business casual attire, with visual cues indicating a focus on social impact and ethical AI. The background includes posters or screens highlighting tech for good initiatives."
+
+  - key: multilingual_technologist
+    prompt: "A global conference setting with multiple language flags and a diverse audience. The figure is speaking at a podium, dressed in professional attire. The background includes elements that highlight the figure's multilingual abilities and international influence."
