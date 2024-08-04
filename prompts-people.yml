@@ -1,0 +1,45 @@
+portraits:
+  - key: baroque_composer
+    prompt: "A man dressed in Baroque era attire with a powdered wig, standing in front of a harpsichord with musical scores on a wooden music stand."
+
+  - key: surrealist_painter
+    prompt: "A man dressed in eccentric, colorful clothing, standing in a dreamlike studio with surreal paintings and abstract sculptures."
+
+  - key: civil_rights_leader
+    prompt: "A man dressed in a 1960s suit and tie, standing at a podium giving a powerful speech with a large crowd and civil rights banners in the background."
+
+  - key: cubist_artist
+    prompt: "A man dressed in early 20th century European attire, standing in a studio filled with geometric, fragmented paintings and sculptures."
+
+  - key: revolutionary_leader
+    prompt: "A man dressed in military fatigues and a beret, standing in front of a crowd with revolutionary banners and flags."
+
+  - key: classical_composer
+    prompt: "A man dressed in 18th-century formal attire, standing at a grand piano with sheet music and a symphony hall in the background."
+
+  - key: romantic_poet
+    prompt: "A man dressed in early 19th-century attire, standing in a serene natural setting with a notebook and quill, surrounded by nature."
+
+  - key: impressionist_painter
+    prompt: "A man dressed in late 19th-century French attire, standing in an outdoor setting with an easel, painting a scene of vibrant colors and light."
+
+  - key: jazz_musician
+    prompt: "A man dressed in 1940s sharp suit and fedora, standing in a smoky jazz club with a saxophone, surrounded by other musicians."
+
+  - key: existentialist_philosopher
+    prompt: "A man dressed in mid-20th-century casual attire, standing in a Parisian café with a thoughtful expression and a stack of philosophical books."
+
+  - key: rock_star
+    prompt: "A man dressed in flamboyant 1970s rock attire with big hair and glitter, standing on a stage with electric guitars and a cheering crowd."
+
+  - key: renaissance_inventor
+    prompt: "A man dressed in 15th-century clothing with a long beard, standing in a workshop filled with sketches of inventions and mechanical models."
+
+  - key: modernist_architect
+    prompt: "A man dressed in mid-20th-century formal attire, standing in front of a model of a sleek, modern building with architectural blueprints."
+
+  - key: revolutionary_scientist
+    prompt: "A man dressed in early 20th-century scientific attire, standing in a lab with chalkboards filled with complex equations and scientific instruments."
+
+  - key: influential_writer
+    prompt: "A man dressed in early 20th-century casual attire, sitting at a typewriter with a cluttered desk, surrounded by books and papers."

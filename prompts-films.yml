@@ -1,0 +1,45 @@
+portraits:
+  - key: space_swashbuckler
+    prompt: "A man dressed in a rugged space adventurer outfit with a blaster, standing on a spaceship with a diverse crew and a view of the galaxy."
+
+  - key: noir_detective
+    prompt: "A man dressed in a 1940s trench coat and fedora, standing in a dark alley with a cigarette and a mysterious silhouette in the background."
+
+  - key: archaeologist_adventurer
+    prompt: "A man dressed in a rugged explorer's outfit with a hat and whip, standing in front of an ancient temple with jungle surroundings."
+
+  - key: dystopian_rebel
+    prompt: "A man dressed in worn, post-apocalyptic clothing, standing in a desolate urban landscape with makeshift weapons and a resistance symbol."
+
+  - key: cybernetic_warrior
+    prompt: "A man dressed in advanced combat armor with cybernetic enhancements, standing in a futuristic city with neon lights and flying vehicles."
+
+  - key: charming_spy
+    prompt: "A man dressed in a sleek tuxedo, holding a high-tech gadget, standing in a luxurious casino with a glamorous crowd."
+
+  - key: fantasy_wizard
+    prompt: "A man dressed in elaborate robes and a pointy hat, holding a magical staff, standing in an ancient library filled with mystical artifacts."
+
+  - key: superhero_vigilante
+    prompt: "A man dressed in a dark, high-tech suit with a mask, standing on a rooftop overlooking a city at night, with a spotlight in the sky."
+
+  - key: galactic_empire_leader
+    prompt: "A man dressed in imposing, futuristic military attire, standing in a throne room with a large window showing a fleet of starships."
+
+  - key: supernatural_hunter
+    prompt: "A man dressed in rugged, casual clothing with a trench coat, holding mystical weapons, standing in an eerie forest at night."
+
+  - key: ancient_warrior
+    prompt: "A man dressed in ancient, battle-worn armor with a sword and shield, standing on a battlefield with a distant castle."
+
+  - key: space_explorer_captain
+    prompt: "A man dressed in a sleek space uniform, standing on the bridge of a starship with a view of distant planets and stars."
+
+  - key: rogue_thief
+    prompt: "A man dressed in dark, stealthy clothing with a hood and various tools, standing in a dimly lit, opulent palace room."
+
+  - key: alien_diplomat
+    prompt: "A man dressed in elegant, otherworldly attire, standing in an intergalactic council chamber with representatives from various species."
+
+  - key: time_traveling_scientist
+    prompt: "A man dressed in a mix of historical and futuristic clothing, holding a complex device, standing in front of a swirling time portal."

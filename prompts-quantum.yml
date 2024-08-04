@@ -1,0 +1,16 @@
+portraits:
+  - key: quantum_scientist
+    prompt: >
+      A man dressed in a tailored suit with embedded lights twinkling in the dusk. Behind the man is a futuristic scene of the quantum world with twirling vortexes of quantum energy.
+
+  - key: traditional_scientist
+    prompt: >
+      A scientist wearing a lab coat standing in front of a large steampunk control panel for some complex machinery
+
+  - key: programmer
+    prompt: >
+      A computer programmer wearing a black t-shirt standing in front of racks and racks of servers
+   
+  - key: programmer_noc
+    prompt: >
+      A computer programmer wearing a black t-shirt standing in front of a large NOC screen showing worldwide traffic

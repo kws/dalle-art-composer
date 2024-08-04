@@ -1,0 +1,48 @@
+portraits:
+  - key: trump_supporter
+    prompt: A man dressed in typical US MAGA (Make America Great Again) gear standing in front of a typical MAGA setting
+
+  - key: roman_emperor
+    prompt: "A man dressed as a Roman emperor wearing a toga and laurel wreath, standing in front of a grand Roman palace with columns and marble statues."
+  
+  - key: medieval_knight
+    prompt: "A man dressed as a medieval knight in full armor, standing in front of a castle with a drawbridge and moat."
+  
+  - key: renaissance_artist
+    prompt: "A man dressed as a Renaissance artist wearing period clothing, standing in a studio with canvases, paintbrushes, and sculptures."
+  
+  - key: egyptian_pharaoh
+    prompt: "A man dressed as an Egyptian pharaoh wearing a headdress and ornate jewelry, standing in front of the pyramids with hieroglyphics on the walls."
+  
+  - key: viking_warrior
+    prompt: "A man dressed as a Viking warrior wearing furs and armor, standing on a wooden ship with a dragon prow and a stormy sea."
+  
+  - key: samurai_warrior
+    prompt: "A man dressed as a samurai warrior in traditional armor, standing in a Japanese garden with cherry blossoms and a pagoda."
+  
+  - key: victorian_gentleman
+    prompt: "A man dressed as a Victorian gentleman in a tailored suit and top hat, standing in a cobblestone street with gas lamps and horse-drawn carriages."
+  
+  - key: ancient_greek_philosopher
+    prompt: "A man dressed as an ancient Greek philosopher wearing a himation, standing in an open-air amphitheater with marble columns."
+  
+  - key: mongol_warrior
+    prompt: "A man dressed as a Mongol warrior in traditional attire, standing on a grassy plain with horses and yurts in the background."
+  
+  - key: 1920s_gangster
+    prompt: "A man dressed as a 1920s gangster in a pinstripe suit and fedora, standing in a speakeasy with jazz musicians and vintage cars."
+  
+  - key: colonial_american
+    prompt: "A man dressed as a colonial American in period clothing, standing in front of a wooden colonial house with a town meeting in progress."
+  
+  - key: ancient_maya_priest
+    prompt: "A man dressed as an ancient Maya priest in ceremonial garb, standing in front of a stepped pyramid with intricate carvings."
+  
+  - key: roaring_twenties
+    prompt: "A man dressed in roaring twenties attire with a stylish suit and bow tie, standing in a lavish party setting with flapper dancers and Art Deco decor."
+  
+  - key: enlightenment_scientist
+    prompt: "A man dressed as an Enlightenment-era scientist in period clothing, standing in a study with scientific instruments and manuscripts."
+  
+  - key: renaissance_explorer
+    prompt: "A man dressed as a Renaissance explorer wearing period attire, standing on the deck of a ship with a map and navigational tools."

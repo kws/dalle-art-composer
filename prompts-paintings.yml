@@ -1,0 +1,45 @@
+portraits:
+  - key: mona_lisa_style
+    prompt: "A man dressed in Renaissance attire, standing in front of a landscape background with a winding river and distant mountains, in the style of the Mona Lisa."
+
+  - key: starry_night_style
+    prompt: "A man dressed in modern attire, standing in front of a swirling night sky filled with vibrant stars over a quiet village with cypress trees and rolling hills, in the style of Starry Night by Vincent van Gogh."
+
+  - key: the_scream_style
+    prompt: "A man dressed in a dramatic pose, standing on a bridge with an agonized expression, with a turbulent, colorful sky and swirling landscape, in the style of The Scream by Edvard Munch."
+
+  - key: persistence_of_memory_style
+    prompt: "A man dressed in surreal attire, standing in a surreal landscape with melting clocks draped over unusual objects, barren trees, and a distant ocean, in the style of The Persistence of Memory by Salvador Dalí."
+
+  - key: water_lilies_style
+    prompt: "A man dressed in casual attire, standing in front of a serene pond filled with water lilies, with reflections of trees and sky in the water, in the style of Water Lilies by Claude Monet."
+
+  - key: the_birth_of_venus_style
+    prompt: "A man dressed in classical attire, standing on a shell emerging from the sea, surrounded by mythological figures and a beautiful seascape, in the style of The Birth of Venus by Sandro Botticelli."
+
+  - key: the_last_supper_style
+    prompt: "A man dressed in ancient attire, standing in front of a long table with a group of figures, with dramatic reactions, in the style of The Last Supper by Leonardo da Vinci."
+
+  - key: the_girl_with_a_pearl_earring_style
+    prompt: "A man dressed in exotic dress with a large pearl earring, standing against a soft, dark background, in the style of Girl with a Pearl Earring by Johannes Vermeer."
+
+  - key: american_gothic_style
+    prompt: "A man dressed in farmer's attire, standing in front of a farmhouse with a stern expression, holding a pitchfork, in the style of American Gothic by Grant Wood."
+
+  - key: the_kiss_style
+    prompt: "A man dressed in golden, patterned robes, standing in an intimate embrace pose with a shimmering, abstract background, in the style of The Kiss by Gustav Klimt."
+
+  - key: las_meninas_style
+    prompt: "A man dressed in royal attire, standing among a young princess and her attendants, in a large room with paintings on the walls and a mirror reflecting figures, in the style of Las Meninas by Diego Velázquez."
+
+  - key: school_of_athens_style
+    prompt: "A man dressed as a philosopher, standing in a grand hall filled with scholars engaged in discussion and study, with classical architecture and sculptures, in the style of The School of Athens by Raphael."
+
+  - key: the_night_watch_style
+    prompt: "A man dressed in militia uniform, standing among a group preparing for action, with dramatic lighting and intricate details, in the style of The Night Watch by Rembrandt."
+
+  - key: the_hay_wain_style
+    prompt: "A man dressed in rural attire, standing in front of a cart being pulled through a shallow river, surrounded by lush trees and a farmhouse in the distance, in the style of The Hay Wain by John Constable."
+
+  - key: the_great_wave_off_kanagawa_style
+    prompt: "A man dressed in traditional Japanese attire, standing in front of a powerful, stylized wave towering over small boats, with Mount Fuji in the background, in the style of The Great Wave off Kanagawa by Hokusai."

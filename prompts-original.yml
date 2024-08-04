@@ -1,0 +1,45 @@
+portraits:
+  - key: space_explorer
+    prompt: "A man dressed in a futuristic astronaut suit standing against a backdrop of outer space with planets, stars, and a distant galaxy."
+  
+  - key: retro_tech_guru
+    prompt: "A man dressed as a retro tech enthusiast standing in a 1980s computer lab filled with old PCs, floppy disks, and neon lights."
+  
+  - key: intergalactic_office
+    prompt: "A man dressed in a sleek business suit standing in a modern office set on a space station with large windows showing the cosmos outside."
+  
+  - key: galactic_barista
+    prompt: "A man dressed as a barista wearing an apron standing in a trendy space café with alien customers and floating coffee cups."
+  
+  - key: space_pirate
+    prompt: "A man dressed as a space pirate standing on the deck of a spaceship with treasure chests and space maps."
+  
+  - key: cyberpunk_city
+    prompt: "A man dressed in a cyberpunk outfit standing in a neon-lit cyberpunk cityscape with towering skyscrapers and flying cars."
+  
+  - key: mad_scientist
+    prompt: "A man dressed as a mad scientist wearing a lab coat standing in a high-tech lab filled with bubbling beakers, Tesla coils, and futuristic devices."
+  
+  - key: galactic_musician
+    prompt: "A man dressed as a galactic rock star standing on a space concert stage with a cheering alien audience and colorful lights."
+  
+  - key: space_farmer
+    prompt: "A man dressed as a futuristic farmer standing on a farm on Mars with red soil, robotic harvesters, and domed greenhouses."
+  
+  - key: starfleet_officer
+    prompt: "A man dressed in a Starfleet-inspired uniform standing on the bridge of a starship with a crew at their stations and a view of the stars."
+  
+  - key: festival_scientist
+    prompt: "A man dressed in casual festival attire with a science twist standing in a lively festival setting with a science pavilion."
+  
+  - key: ai_artist
+    prompt: "A man dressed in a creative outfit standing in a digital art studio with AI-generated artworks displayed on screens."
+  
+  - key: lighting_designer
+    prompt: "A man dressed in a practical yet stylish outfit standing on a stage with elaborate lighting designs."
+  
+  - key: ethical_tech_leader
+    prompt: "A man dressed in business casual attire standing in a modern office with elements of ethical technology displayed."
+  
+  - key: multilingual_technologist
+    prompt: "A man dressed in professional attire standing in a global conference setting with multiple language flags and a diverse audience."
